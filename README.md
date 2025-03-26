@@ -1,12 +1,6 @@
 # Информация о наборе данных
-
-## Источник датасета
-National Institute of Diabetes and Digestive and Kidney Diseases (USA)
-
-## Авторы датасета
-Aman Chauhan (Delhi, India)
-
-Ссылка на оригинал датасета: [www.kaggle.com/datasets/whenamancodes/predict-diabities](https://www.kaggle.com/datasets/whenamancodes/predict-diabities)
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-dd/blob/main/diabetes.csv
 
 ## Версия датасета
 
@@ -25,3 +19,11 @@ Aman Chauhan (Delhi, India)
 - DiabetesPedigreeFunction — Функция оценки риска сахарного диабета на основе семейного анамнеза
 - Age — Возраст
 - Outcome — Исход (1 = Наличие диабета; 0 = Отсутствие диабета)
+
+## Источник датасета
+National Institute of Diabetes and Digestive and Kidney Diseases (USA)
+
+## Авторы датасета
+Aman Chauhan (Delhi, India)
+
+Ссылка на оригинал датасета: [www.kaggle.com/datasets/whenamancodes/predict-diabities](https://www.kaggle.com/datasets/whenamancodes/predict-diabities)
